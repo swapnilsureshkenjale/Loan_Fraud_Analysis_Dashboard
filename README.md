@@ -1,5 +1,5 @@
 # Home_Analysis_Dashboard
-An interactive Power BI Home Loan Analysis Dashboard that visualizes key metrics like total applied, sanctioned, disbursed, and recovered loan amounts. Built using Power BI, DAX, and Power Query, it helps track loan trends, branch performance, and customer insights for data-driven financial decision-making.
+An interactive Business Intelligence dashboard designed to analyze banking transactions, customer profiles, loan distributions, and account balances. This project translates raw banking operational data into actionable financial metrics and performance trends.
 ---
 
 ## 📊 Dashboard Previews
